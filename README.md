@@ -14,3 +14,5 @@ Features:
 
 The class generates a POV file readable by the PovRay raytracer (http://www.povray.org/). The class is designed to work with PovRay 3.6, but it should also work fine for later versions. 
 
+Author: Víctor Buendía Ruiz-Azuaga.
+
