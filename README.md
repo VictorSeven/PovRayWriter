@@ -14,7 +14,6 @@ Features:
 
 The class generates a POV file readable by the PovRay raytracer (http://www.povray.org/). The class is designed to work with PovRay 3.6, but it should also work fine for later versions. 
 
-You can download it simply from the Source folder. Some commented examples and the outputs generated are in the Examples folder... There's also a full pdf manual (in Spanish) which you can also download. I'll try to translate the manual and upload the docs in Ehglish to the wiki this summer.
+You can download it simply from the Source folder. Some commented examples and the outputs generated are in the Examples folder... There's also a full pdf manual (in Spanish) which you can also download. 
 
-Author: Víctor Buendía Ruiz-Azuaga.
 
